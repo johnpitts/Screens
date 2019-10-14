@@ -80,21 +80,19 @@
                         <color key="backgroundColor" red="0.2265701296" green="0.31492173540000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="cv1-uo-nKL"/>
                     </view>
-                    <toolbarItems>
-                        <barButtonItem title="Item" id="0Ur-Ns-U28"/>
-                        <barButtonItem title="Item" id="sZ1-bV-kAK"/>
-                        <barButtonItem title="Yellow" id="12j-MH-zZK">
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" title="Blue" id="1yT-xW-Aig">
+                        <barButtonItem key="rightBarButtonItem" title="Yellow" id="12j-MH-zZK">
                             <connections>
                                 <segue destination="sVQ-84-r0U" kind="show" id="hhM-mh-zQm"/>
                             </connections>
                         </barButtonItem>
-                    </toolbarItems>
-                    <navigationItem key="navigationItem" title="Blue" id="1yT-xW-Aig"/>
+                    </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uwD-0j-GOh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2583" y="-974"/>
+            <point key="canvasLocation" x="2641" y="-722"/>
         </scene>
         <!--Yellow-->
         <scene sceneID="hLz-1Z-jxc">
@@ -106,9 +104,7 @@
                         <color key="backgroundColor" red="0.99942404029999998" green="0.98555368190000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="CrE-5c-12k"/>
                     </view>
-                    <toolbarItems>
-                        <barButtonItem title="done" id="q8j-rJ-q0b"/>
-                    </toolbarItems>
+                    <toolbarItems/>
                     <navigationItem key="navigationItem" title="Yellow" id="44V-DW-AAa">
                         <barButtonItem key="rightBarButtonItem" title="Repeat" id="0Kd-I8-c2k"/>
                     </navigationItem>
@@ -116,7 +112,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DfO-We-pup" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3364" y="-974"/>
+            <point key="canvasLocation" x="3364" y="-723"/>
         </scene>
         <!--Green-->
         <scene sceneID="04x-fp-XlJ">
@@ -167,7 +163,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="847-IR-l8y" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2584" y="-299"/>
+            <point key="canvasLocation" x="2641" y="-72"/>
         </scene>
         <!--Orange-->
         <scene sceneID="fl0-q8-auC">
@@ -185,7 +181,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UXK-mU-I6k" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3365" y="-299"/>
+            <point key="canvasLocation" x="3364" y="-72"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="jgJ-QO-qci">
@@ -233,7 +229,7 @@
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RzW-BH-rfX" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-151" y="-1579"/>
+            <point key="canvasLocation" x="390" y="-1175"/>
         </scene>
         <!--Old Colors-->
         <scene sceneID="zZQ-dk-Bvf">
